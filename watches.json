@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Watch Ultra",
+    "price": 799
+  },
+  {
+    "id": 2,
+    "name": "Galaxy Watch 6",
+    "price": 329
+  },
+  {
+    "id": 3,
+    "name": "Forerunner 955",
+    "price": 599
+  },
+  {
+    "id": 4,
+    "name": "Versa 4",
+    "price": 249
+  },
+  {
+    "id": 5,
+    "name": "Gen 7",
+    "price": 299
+  }
+]
